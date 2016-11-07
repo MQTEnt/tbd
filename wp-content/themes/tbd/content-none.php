@@ -1,0 +1,1 @@
+<?php echo "Have no content !"; ?>
